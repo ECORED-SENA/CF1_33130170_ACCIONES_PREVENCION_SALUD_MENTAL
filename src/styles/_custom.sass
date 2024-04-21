@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 10%
+    right: 20%
+  &-3
+    animation: float1 4s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
     right: 30%
-
 
 @keyframes float1
   0%
@@ -17,3 +21,81 @@
 
   100%
     transform: translateY(0px)
+@keyframes scale
+  0%
+    transform: scale(1)
+
+  100%
+    transform: scale(1.1)
+.mn
+  margin: 0 -3rem
+.bloque-texto-c.color-acento-contenido
+  background-color: #daf2e4
+.bloque-texto-c:after
+  background-color: $color-sistema-texto
+span
+  &.color-primario
+    background-color: $color-primario
+    color: white
+    padding: 2px
+  &.color-secundario
+    background-color: $color-secundario
+    color: white
+    padding: 2px
+  &.color-acento-contenido
+    background-color: #35a064
+    color: white
+    padding: 2px
+  &.color-acento-botones
+    background-color: $color-acento-botones
+    color: white
+    padding: 2px
+.crd_hover_txt
+  position: relative
+  padding: 0 !important
+  overflow: hidden !important
+  // &:hover
+  //   .crd_hover_txt--body
+  //     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+  //     transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 5rem ))
+    background-color: #082952
+
+  @media (min-width:1200px) and (max-width:1400px)
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+.tarjeta--verde
+  background-color: #95dbb3
+.acordion__activo
+  background-color: #effaf4
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+  i
+    color: $white
+.titulo-tres
+  background-color: $color-secundario
+  padding: .8rem
+  display: inline-block
+  border-radius: 0 30px 30px 0
+  position: relative
+  h4
+    margin-left: 30px
+    margin-right: 30px
+  &::before
+    content: url('../assets/curso/temas/icono.svg')
+    position: absolute
+    left: -15px
+    top: -17px
+    width: 60px
+    animation: scale 2.8s ease-in-out infinite alternate
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: $color-acento-botones
+  i
+    color: $white

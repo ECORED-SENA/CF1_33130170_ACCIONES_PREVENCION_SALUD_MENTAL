@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="490" viewBox="0 0 1328 490">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401407" data-name="Rectángulo 401407" width="1328" height="490" transform="translate(136 609.006)" fill="#ecf6ff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.066" x2="0.5" y2="0.894" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcf9e8" stop-opacity="0"/>
+      <stop offset="0.163" stop-color="#fcf9e8" stop-opacity="0.678"/>
+      <stop offset="0.33" stop-color="#fcf9e8"/>
+      <stop offset="0.522" stop-color="#fcf9e8"/>
+      <stop offset="0.729" stop-color="#fcf9e8"/>
+      <stop offset="0.882" stop-color="#fcf9e8" stop-opacity="0.216"/>
+      <stop offset="1" stop-color="#fcf9e8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="f-s2" transform="translate(-136 -609.006)" clip-path="url(#clip-path)">
+    <path id="Trazado_875695" data-name="Trazado 875695" d="M0,0H1376V529.663H0Z" transform="translate(114 592.551)" fill="url(#linear-gradient)"/>
+    <g id="Grupo_1099272" data-name="Grupo 1099272" transform="translate(722.958 648.829)" opacity="0.388">
+      <g id="Elipse_11530" data-name="Elipse 11530" transform="translate(0 38.195)" fill="#77af8f" stroke="#707070" stroke-width="1" opacity="0.503">
+        <ellipse cx="229.569" cy="188.812" rx="229.569" ry="188.812" stroke="none"/>
+        <ellipse cx="229.569" cy="188.812" rx="229.069" ry="188.312" fill="none"/>
+      </g>
+      <g id="Elipse_11531" data-name="Elipse 11531" transform="translate(487.401 114.28)" fill="#e6d567" stroke="#707070" stroke-width="1" opacity="0.503">
+        <ellipse cx="229.569" cy="188.812" rx="229.569" ry="188.812" stroke="none"/>
+        <ellipse cx="229.569" cy="188.812" rx="229.069" ry="188.312" fill="none"/>
+      </g>
+      <g id="Elipse_11532" data-name="Elipse 11532" transform="translate(558.883 0)" fill="#1588d1" stroke="#707070" stroke-width="1" opacity="0.426">
+        <ellipse cx="120.915" cy="99.446" rx="120.915" ry="99.446" stroke="none"/>
+        <ellipse cx="120.915" cy="99.446" rx="120.415" ry="98.946" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_1099273" data-name="Grupo 1099273" transform="translate(-282.272 413.973)" opacity="0.388">
+      <g id="Elipse_11533" data-name="Elipse 11533" transform="translate(162.575 110.212)" fill="#e6d567" stroke="#707070" stroke-width="1" opacity="0.503">
+        <ellipse cx="272.984" cy="224.519" rx="272.984" ry="224.519" stroke="none"/>
+        <ellipse cx="272.984" cy="224.519" rx="272.484" ry="224.019" fill="none"/>
+      </g>
+      <g id="Elipse_11534" data-name="Elipse 11534" fill="#95dbb3" stroke="#707070" stroke-width="1" opacity="0.503">
+        <ellipse cx="272.984" cy="224.519" rx="272.984" ry="224.519" stroke="none"/>
+        <ellipse cx="272.984" cy="224.519" rx="272.484" ry="224.019" fill="none"/>
+      </g>
+      <g id="Elipse_11535" data-name="Elipse 11535" transform="translate(258.405 387.079)" fill="#77af8f" stroke="#707070" stroke-width="1" opacity="0.426">
+        <ellipse cx="143.782" cy="118.253" rx="143.782" ry="118.253" stroke="none"/>
+        <ellipse cx="143.782" cy="118.253" rx="143.282" ry="117.753" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
