@@ -112,32 +112,80 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Concepto de salud mental positiva',
+      referencia:
+        'PAHO TV (2022).Qué es la salud mental y cómo podemos cuidarla.  [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=owr6b1WxWHM&ab_channel=PAHOTV',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Derechos en el campo de la salud mental',
+      referencia:
+        'Unisalud-Universidad Nacional de Colombia (2023). Conozca sus derechos de salud mental. Ley 1616 de 2013, Art 2 [Archivo de video] Youtube',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=iUHHyu-0HL0&ab_channel=Unisalud-UniversidadNacionaldeColombia ',
+    },
+    {
+      tema: 'Derechos en el campo de la salud mental',
+      referencia:
+        'MinSalud (2021). Dimensión convivencia social y salud mental',
+      tipo: 'Archivo',
+      link:
+        'https://www.minsalud.gov.co/plandecenal/Documents/dimensiones/convivenciasocial-ysalud-mental.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Salud mental',
+      significado:
+        'estado de bienestar en que las personas desarrollan sus capacidades, afrontan las tensiones de la vida y contribuyen a su comunidad, según la Organización Mundial de la Salud (OMS).',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Enfoque de derechos',
+      significado:
+        'perspectiva que garantiza el acceso, la atención y la promoción de la salud mental como parte fundamental de los derechos humanos.',
+    },
+    {
+      termino: 'Trastornos mentales comunes:',
+      significado:
+        'afecciones de salud mental que pueden incluir depresión, ansiedad y trastornos del comportamiento, que afectan a individuos de distintas maneras.',
+    },
+    {
+      termino: 'Determinantes sociales',
+      significado:
+        'factores socioeconómicos y ambientales como la pobreza, educación y violencia, que impactan en la salud mental de los individuos y comunidades.',
+    },
+    {
+      termino: 'Violencia intrafamiliar',
+      significado:
+        'cualquier forma de abuso físico, psicológico, económico o sexual que ocurre dentro del hogar y afecta la integridad y bienestar de sus miembros.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Colombia. Ministerio de Salud y Protección Social. (2013). Ley 1616 de 26 de enero de 2013 por medio de la cual se expide la ley de salud mental y se dictan otras disposiciones.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1616-del-21-de-enero-2013.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2014). ABC de la salud mental.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/abc-salud-mental.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2015). Resolución 5592 de 2015.',
+      link:
+        'Ministerio de Salud y Protección Social. (2015). Resolución 5592 de 2015.',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2016). Resolución 6408 de 2016. Recuperado de',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resolución%206408%20de%202016.pdf.',
     },
   ],
   creditos: [
@@ -160,8 +208,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Sonia Margarita Leal Cruzo',
+          cargo: 'Experto temático',
+          centro: 'Regional Risaralda',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -170,12 +223,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edgar Mauricio Cortes Garcia',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -185,7 +238,7 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Edgar Mauricio Cortes Garcia',
           cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },

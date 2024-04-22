@@ -108,12 +108,8 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         p La familia puede verse como un ecosistema donde la supervivencia de cada miembro está interconectada.
-          br
-          br
-          |Es en el núcleo familiar donde se forjan lazos fundamentales, se aprende sobre el amor, se inculcan valores, se establecen patrones de crianza, se forma el carácter y se practican ética y moralidad. La familia tiene la función esencial de enseñar a amar, siendo el mayor factor de protección para sus miembros. 
-          br
-          br
-          |No obstante, cuando la cohesión familiar se deteriora por factores internos o externos, afectando la convivencia armónica, surge la violencia intrafamiliar. Este fenómeno es común en muchas familias del país y representa uno de los principales factores de riesgo para la salud mental. 
+        p Es en el núcleo familiar donde se forjan lazos fundamentales, se aprende sobre el amor, se inculcan valores, se establecen patrones de crianza, se forma el carácter y se practican ética y moralidad. La familia tiene la función esencial de enseñar a amar, siendo el mayor factor de protección para sus miembros. 
+        p No obstante, cuando la cohesión familiar se deteriora por factores internos o externos, afectando la convivencia armónica, surge la violencia intrafamiliar. Este fenómeno es común en muchas familias del país y representa uno de los principales factores de riesgo para la salud mental. 
       .col-lg-4.col-7: img(src='@/assets/curso/temas/34.png', alt='')
     h4.mb-5 Los tipos de violencia que se pueden dar en la familia son:  
     .row.justify-content-center.mb-5
@@ -123,13 +119,13 @@
 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--verde")
           div(titulo=" Violencia intrafamiliar ")
-            p.mb-0 
+            p.mb-0 El Consejo Distrital para la Atención Integral a Víctimas de Violencia y Abuso Sexual define la violencia intrafamiliar como todas aquellas acciones realizadas en el interior de la familia, donde uno de sus miembros lesiona la armonía y la vida, la integridad, la autonomía, la libertad individual, la libertad sexual o la dignidad humana de quienes la integran.
           div(titulo=" Maltrato infantil  ")
-            p.mb-0 La ley 1098 de 2006 en su artículo 18 establece que el maltrato infantil se refiere a toda forma de perjuicio, castigo, humillación o abuso físico, psicológico, descuido, omisión de tratamiento o malos tratos o explotación sexual, incluidos los actos sexuales abusivos y la violación y en general toda forma de violencia o agresión sobre el niño, la niña o el adolescente por parte de sus padres, representantes legales o cualquier otra persona. 
+            p.mb-0 La ley 1098 de 2006 en su artículo 18 establece que el maltrato infantil se refiere a toda forma de perjuicio, castigo, humillación o abuso físico, psicológico, descuido, omisión de tratamiento o malos tratos o explotación sexual, incluidos los actos sexuales abusivos y la violación y en general toda forma de violencia o agresión sobre el niño, la niña o el adolescente por parte de sus padres, representantes legales o cualquier otra persona.
           div(titulo="Violencia por razones de género ")
-            p.mb-0 
+            p.mb-0 El Consejo Distrital para la Atención Integral a Víctimas de Violencia y Abuso Sexual nos define que cualquier acción, omisión, conducta (o amenazas) que causen muerte, daño o sufrimiento físico, sexual, psicológico económico y/o patrimonial a la persona y/o a las familias o a las comunidades asociada a un ejercicio de poder fundamentado en relaciones asimétricas y desiguales entre hombres y mujeres, para mantener condiciones de desigualdad y discriminación.
           div(titulo=" Maltrato a personas mayores  ")
-            p.mb-0 
+            p.mb-0 La Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores nos dice que el acto único o repetido que causa daño o sufrimiento a una persona de edad, o la falta de medidas apropiadas para evitarlo, que se produce en una relación basada en la confianza. La desatención o el abandono ocurre cuando un cuidador no brinda la atención adecuada o abandona al adulto mayor. Este es el tipo más común de maltrato a personas mayores.
       .col-lg-4: img(src='@/assets/curso/temas/35.png', alt='')
     .titulo-tres.mb-5: h4.mb-0 Formas de violencia intrafamiliar 
     p.mb-5(data-aos='fade-right') De acuerdo con la Información facilitada por el Consejo Distrital para la Atención Integral a Víctimas de Violencia y Abuso Sexual 2015, de la alcaldía Mayor de Bogotá, se determinan las siguientes: 
