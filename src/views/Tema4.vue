@@ -110,7 +110,7 @@
       .col-lg-8(data-aos="fade-right")
         p La familia puede verse como un ecosistema donde la #[b supervivencia de cada miembro está interconectada.]
         p Es en el núcleo familiar donde se forjan lazos fundamentales, se aprende sobre el amor, se inculcan valores, se establecen patrones de crianza, se forma el carácter y se practican ética y moralidad. La familia tiene la función esencial de enseñar a amar, siendo el mayor factor de protección para sus miembros. 
-        p No obstante, cuando la cohesión familiar se deteriora por factores internos o externos, afectando la convivencia armónica, surge la violencia intrafamiliar. Este fenómeno es común en muchas familias del país y representa uno de los principales factores de riesgo para la salud mental. 
+        p No obstante, cuando la cohesión familiar se deteriora por #[b factores internos o externos], afectando la convivencia armónica, surge la #[b violencia intrafamiliar]. Este fenómeno es común en muchas familias del país y representa uno de los principales factores de riesgo para la salud mental. 
       .col-lg-4.col-7(data-aos="fade-left"): img(src='@/assets/curso/temas/34.png', alt='')
     h4.mb-5(data-aos="fade-right") Los tipos de violencia que se pueden dar en la familia son:  
     .row.justify-content-center.mb-2

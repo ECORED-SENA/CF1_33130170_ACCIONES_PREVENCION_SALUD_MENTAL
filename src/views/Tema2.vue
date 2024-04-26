@@ -13,6 +13,7 @@
         .col-lg-9(data-aos="fade-left")
           .p-4.h-100(style="background-color: #f6f0ca ")
             p.mb-0 La formulación de un Plan Nacional de Salud Mental se inscribe en el contexto del Plan Decenal de Salud Pública 2022 – 2031, un documento rector que establece las directrices para asegurar la salud en Colombia. Este plan se ha desarrollado a partir de un análisis de la situación sanitaria del país y presenta una perspectiva particular de la salud, adoptando un modelo específico con diversas dimensiones. Con relación al tema que nos ocupa, ofreceremos un resumen de la ‘Dimensión de convivencia social y salud mental’, que facilitará la comprensión del estado actual y las condiciones de la salud mental en nuestro país. 
+            img.d-lg-block.d-none(src='@/assets/curso/temas/decoracion.svg', alt='' style="width: 62px").mt-4
       p.mb-5(data-aos="fade-right") #[span.color-acento-contenido La dimensión de convivencia social y salud mental], a partir del Análisis de la situación de salud 2014 y la Propuesta de ajuste de la política nacional de salud mental 2014, se destacan tres componentes fundamentales que orientan las acciones en el ámbito de la salud mental: 
       .row.justify-content-center.mb-4
         .col-lg-4.col-7.mb-lg-0.mb-3

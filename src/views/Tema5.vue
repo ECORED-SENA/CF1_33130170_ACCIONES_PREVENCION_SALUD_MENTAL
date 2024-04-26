@@ -16,6 +16,7 @@
         .col-lg-9(data-aos="fade-left")
           .p-4.h-100(style="background-color: #f6f0ca ")
             p.mb-0 #[b Las crisis] pueden surgir por motivos diversos como una pérdida ya sea afectiva, por muerte o separación, etapas del desarrollo humano como la adolescencia, o por la incapacidad de gestionar situaciones de presión en ámbitos como el laboral, familiar o educativo.
+            img.d-lg-block.d-none(src='@/assets/curso/temas/decoracion.svg', alt='' style="width: 62px").mt-4
       h4.mb-5 Hay múltiples factores que pueden precipitar una crisis en una persona o en un grupo social, y a continuación se señalarán algunos:  
       .titulo-tres.mb-5(data-aos="fade-right"): h4.mb-0 Condiciones individuales 
       .row.justify-content-center.mb-4
