@@ -66,11 +66,17 @@ span
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 5rem ))
     background-color: #082952
-
+    
   @media (min-width:1200px) and (max-width:1400px)
     .crd_hover_txt--body
       p
         font-size: 0.85em
+
+  @media (max-width:500px)
+    .crd_hover_txt--body
+      h4
+        font-size: 0.9em
+
 .tarjeta--verde
   background-color: #95dbb3
 .acordion__activo
@@ -99,3 +105,9 @@ span
   background-color: $color-acento-botones
   i
     color: $white
+
+
+.banner-interno__titulo__icono i
+  color: #fff
+
+

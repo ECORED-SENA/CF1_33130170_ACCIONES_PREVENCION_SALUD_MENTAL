@@ -147,7 +147,7 @@ export default {
         'perspectiva que garantiza el acceso, la atención y la promoción de la salud mental como parte fundamental de los derechos humanos.',
     },
     {
-      termino: 'Trastornos mentales comunes:',
+      termino: 'Trastornos mentales comunes',
       significado:
         'afecciones de salud mental que pueden incluir depresión, ansiedad y trastornos del comportamiento, que afectan a individuos de distintas maneras.',
     },
@@ -179,13 +179,13 @@ export default {
       referencia:
         'Ministerio de Salud y Protección Social. (2015). Resolución 5592 de 2015.',
       link:
-        'Ministerio de Salud y Protección Social. (2015). Resolución 5592 de 2015.',
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%205592%20de%202015.pdf',
     },
     {
       referencia:
         'Ministerio de Salud y Protección Social. (2016). Resolución 6408 de 2016. Recuperado de',
       link:
-        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resolución%206408%20de%202016.pdf.',
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%206408%20de%202016.pdf',
     },
   ],
   creditos: [
@@ -230,16 +230,6 @@ export default {
         {
           nombre: 'Edgar Mauricio Cortes Garcia',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Edgar Mauricio Cortes Garcia',
-          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],

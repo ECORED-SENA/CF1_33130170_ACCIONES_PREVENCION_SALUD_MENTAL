@@ -16,15 +16,13 @@
           p.mb-0 #[b Las crisis] pueden surgir por motivos diversos como una pérdida ya sea afectiva, por muerte o separación, etapas del desarrollo humano como la adolescencia, o por la incapacidad de gestionar situaciones de presión en ámbitos como el laboral, familiar o educativo.
     h4.mb-5 Hay múltiples factores que pueden precipitar una crisis en una persona o en un grupo social, y a continuación se señalarán algunos:  
     .titulo-tres.mb-5: h4.mb-0 Condiciones individuales 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-8
         p Cada persona desarrolla habilidades que le permiten navegar por la vida, protegerse y cuidar de sí mismo y de los demás. Estas habilidades se refuerzan a través de las experiencias, ya sean positivas o negativas, que brinda el entorno. Sin embargo, cuando estas condiciones individuales son frágiles, pueden convertirse en un factor de riesgo que incrementa la vulnerabilidad a problemas de salud mental a lo largo de la vida. 
-          br
-          br
-          | #[b Algunos factores que afectan el desarrollo a través de la vida son:]  
-      .col-lg-4.col-7: img(src='@/assets/curso/temas/43.svg', alt='')
+        p #[b Algunos factores que afectan el desarrollo a través de la vida son:]  
+      .col-lg-4.col-7: img(src='@/assets/curso/temas/43.svg', alt='').d-none.d-md-block
     .row.justify-content-center.mb-5.g-0
-      .col-lg-4.col-5.mb-lg-0.mb-3
+      .col-lg-4.col-12.mb-lg-0
           div.h-100.p-5.pb-0.w-100(style="background-color: #daf2e4 ").d-flex
             img(src='@/assets/curso/temas/44.svg', alt='').m-auto
       .col-lg-5
@@ -32,25 +30,25 @@
           ul.lista-ul--color
             li.d-flex
               i.fas.fa-check-circle(style="color: #35A064")
-              p.mb-0 Soledad 
+              p.mb-0 Soledad.
             li.d-flex
               i.fas.fa-check-circle(style="color: #35A064")
-              p.mb-0 Baja autoestima 
+              p.mb-0 Baja autoestima.
             li.d-flex
               i.fas.fa-check-circle(style="color: #35A064")
-              p.mb-0 Pensamientos negativos 
+              p.mb-0 Pensamientos negativos.
             li.d-flex
               i.fas.fa-check-circle(style="color: #35A064")
-              p.mb-0 Historia de enfermedad mental en la familia 
+              p.mb-0 Historia de enfermedad mental en la familia.
             li.d-flex
               i.fas.fa-check-circle(style="color: #35A064")
-              p.mb-0 Baja tolerancia a la frustración 
+              p.mb-0 Baja tolerancia a la frustración.
             li.d-flex
               i.fas.fa-check-circle(style="color: #35A064")
-              p.mb-0 Pocas habilidades sociales 
+              p.mb-0 Pocas habilidades sociales.
             li.d-flex
               i.fas.fa-check-circle(style="color: #35A064")
-              p.mb-0 Redes de apoyo limitadas o inexistentes 
+              p.mb-0 Redes de apoyo limitadas o inexistentes.
     .titulo-tres.mb-4: h4.mb-0 Consumo de Sustancias Psicoactivas (SPA)
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
@@ -93,7 +91,7 @@
               p.mb-0 Depresión.
             li.d-flex
               i.fas.fa-check-circle(style="color: #35A064")
-              p.mb-0 Trastornos de la alimentación 
+              p.mb-0 Trastornos de la alimentación.
     p.mb-5(data-aos='fade-right') Cada uno de estos se hace visible con unas características específicas de acuerdo con la edad y pueden ser desencadenados por hechos violentos, abuso o abandono. 
     .titulo-tres.mb-5: h4.mb-0 Redes sociales y salud mental 
     p.mb-5(data-aos='fade-right') Los seres humanos somos propensos por naturaleza a buscar la formación de redes de apoyo y la convivencia con otros, un impulso fundamental de protección y cuidado. Desde el nacimiento, establecemos nuestra primera red social: la familia, seguida por la escuela, los amigos y finalmente el entorno laboral. La interacción con otras personas es crucial para mantener una buena salud mental.
@@ -108,7 +106,7 @@
               |En el contexto actual, el ámbito social, junto con el progreso tecnológico, ha dado paso a plataformas que a menudo ofrecen una versión distorsionada de #[b las relaciones interpersonales]. Actualmente, la gente se comunica con personas que #[b no conoce en la vida] real, crea vínculos con ilusiones y esto ha desencadenado una búsqueda constante de reconocimiento y un interés excesivo por proyectar una vida idílica. Además, existe una tendencia a #[b asumir riesgos] imprudentemente al contactar a desconocidos en línea para entablar relaciones. 
     .rounded-pill.d-inline-block.p-2(style="background-color: #8ad3bc ")
       h4.mb-0.mx-3 Conductas anormales derivadas de las redes sociales por internet 
-    p.mb-5(data-aos='fade-right') Los riesgos y amenazas que conlleva el mal uso de las redes sociales son significativos y requieren ser gestionados con responsabilidad y buen juicio para minimizar los factores de riesgo. 
+    p.mt-4.mb-5(data-aos='fade-right') Los riesgos y amenazas que conlleva el mal uso de las redes sociales son significativos y requieren ser gestionados con responsabilidad y buen juicio para minimizar los factores de riesgo. 
     .row.justify-content-center.mb-5
       .col-lg-4.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/49.svg', alt='')
       .col-lg-8

@@ -10,7 +10,7 @@
       .col-lg-3.mb-lg-0.mb-3
         p.mb-0 #[b La Ley 1616 de 2013], conocida como Ley de Salud Mental, incorpora el enfoque de derechos en la concepción de la salud mental en Colombia.
       .col-lg-9
-        .row.justify-content-center.mb-5.g-0
+        .row.justify-content-center.g-0
           .col-lg-3.col-5.mb-lg-0.mb-3
               div.h-100.p-3.w-100(style="background-color: #daf2e4 ").d-flex
                 img(src='@/assets/curso/temas/15.svg', alt='').m-auto
@@ -57,32 +57,32 @@
       .col-lg-10
         h5 Otros artículos importantes son:  
         .row.justify-content-center.mb-5
-          .col-lg-4
+          .col-lg-4.mt-4.mt-lg-0
             .p-4.h-100(style="background-color: #f6f0ca")
               img(src='@/assets/curso/temas/19.svg', alt='' style="width: 48px").mb-4
               h5 Artículo 64. 
               p Psicoterapia ambulatoria para la población general: hasta treinta (30) sesiones de psicoterapia individual, durante el año calendario, hasta treinta (30) terapias grupales, durante el año calendario. 
           .col-lg-8
-            .row.justify-content-center.mb-3
+            .row.justify-content-center
               
-              .col-lg-6
+              .col-lg-6.mt-4.mt-md-0
                 .p-4.h-100(style="background-color: #f6f0ca")
                   img(src='@/assets/curso/temas/19.svg', alt='' style="width: 48px").mb-4
                   h5 Artículo 65.  
                   p Psicoterapia ambulatoria para mujeres víctimas de violencia. 
-              .col-lg-6
+              .col-lg-6.mt-4.mt-md-0
                 .p-4(style="background-color: #f6f0ca")
                   img(src='@/assets/curso/temas/19.svg', alt='' style="width: 48px").mb-4
                   h5 Artículo 66. 
                   p Atención con internación en salud mental para la población general. 
             .row.justify-content-center
               
-              .col-lg-6
+              .col-lg-6.mt-4
                 .p-4.h-100(style="background-color: #f6f0ca")
                   img(src='@/assets/curso/temas/19.svg', alt='' style="width: 48px").mb-4
                   h5 Artículo 67.
                   p  Atención con internación en salud mental para mujeres víctimas de violencia. 
-              .col-lg-6
+              .col-lg-6.mt-4
                 .p-4.h-100(style="background-color: #f6f0ca")
                   img(src='@/assets/curso/temas/19.svg', alt='' style="width: 48px").mb-4
                   h5 Artículo 68. 

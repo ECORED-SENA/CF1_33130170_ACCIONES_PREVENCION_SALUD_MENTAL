@@ -70,9 +70,9 @@
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         p.mb-0 La OMS señala que los determinantes sociales se asocian con problemas significativos. Circunstancias como la pobreza, la exclusión y la guerra trascienden la capacidad de cambio a nivel individual o familiar. Ante estas realidades, el estado desempeña un papel de protector y garante de los derechos fundamentales. No obstante, en el ámbito individual también es posible emprender acciones de autoprotección que contribuyan a la mitigación de estos riesgos.  
-      .col-lg-4.col-4: img(src='@/assets/curso/temas/29.png', alt='')
+      .col-lg-4.col-8: img(src='@/assets/curso/temas/29.png', alt='').mx-auto.mt-4.mt-md-0
     .row.justify-content-center.mb-5
-      .col-lg-4
+      .col-lg-4.mt-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/30.svg' alt='AvatarTop')
           .tarjeta.w-100(style="background-color: #daf2e4 ")
@@ -81,7 +81,7 @@
                 .p-1(style="background-color: #59836b").text-white.d-inline-block.m-auto.mb-4
                   h4.text-center.d-inline-block.mb-0 Fortalecimiento personal
               p Desarrollo de habilidades emocionales y psicológicas para afrontar dificultades.
-      .col-lg-4
+      .col-lg-4.mt-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/31.svg' alt='AvatarTop')
           .tarjeta.w-100(style="background-color: #daf2e4 ")
@@ -89,8 +89,8 @@
               .d-flex.justify-content-center
                 .p-1(style="background-color: #59836b").text-white.d-inline-block.m-auto.mb-4
                   h4.text-center.d-inline-block.mb-0 Igualdad
-              p Eliminación de cualquier forma de discriminación racial, religiosa o política
-      .col-lg-4
+              p Eliminación de cualquier forma de discriminación racial, religiosa o política.
+      .col-lg-4.mt-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/32.svg' alt='AvatarTop')
           .tarjeta.w-100(style="background-color: #daf2e4 ")
