@@ -61,7 +61,7 @@
           .crd_hover_txt--body.w-100
             h4.mb-4.text-center.text-white Abuso y dependencia de sustancias psicoactivas
     p(data-aos='fade-right') Además, se reconocen tres problemáticas principales que deben ser el foco de todas las estrategias de promoción, prevención y atención en salud mental: 
-    p.mb-5(data-aos="fade-right") Los aspectos que enmarcan la política pública en salud mental:
+    p.mb-0(data-aos="fade-right") Los aspectos que enmarcan la política pública en salud mental:
     .mn.fondo-2.p-5
       .row.justify-content-center.mb-5
         .col-lg-10(data-aos="zoom-in")
