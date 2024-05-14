@@ -114,7 +114,7 @@ export default {
     {
       tema: 'Concepto de salud mental positiva',
       referencia:
-        'PAHO TV (2022).Qué es la salud mental y cómo podemos cuidarla.  [Archivo de video] Youtube.',
+        'PAHO TV (2022). Qué es la salud mental y cómo podemos cuidarla.  [Archivo de video] Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=owr6b1WxWHM&ab_channel=PAHOTV',
     },
@@ -165,13 +165,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Colombia. Ministerio de Salud y Protección Social. (2013). Ley 1616 de 26 de enero de 2013 por medio de la cual se expide la ley de salud mental y se dictan otras disposiciones.',
+        'Colombia. Ministerio de Salud y Protección Social. (2013). Ley 1616 de 21 de enero de 2013 por medio de la cual se expide la ley de salud mental y se dictan otras disposiciones.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1616-del-21-de-enero-2013.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2014). ABC de la salud mental.',
+        'Ministerio de Salud y Protección Social. (2014). ABECÉ sobre la salud mental, sus trastornos y estigma.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/abc-salud-mental.pdf',
     },
@@ -209,12 +209,12 @@ export default {
       autores: [
         {
           nombre: 'Sonia Margarita Leal Cruzo',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro: 'Regional Risaralda',
         },
         {
           nombre: 'Paola Alexandra Moya',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -249,12 +249,12 @@ export default {
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Margarita Marcela Medrano Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],

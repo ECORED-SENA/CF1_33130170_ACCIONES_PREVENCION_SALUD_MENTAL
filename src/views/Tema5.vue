@@ -113,7 +113,7 @@
     .row.justify-content-center.mb-5
       .col-lg-4.col-6.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/49.svg', alt='')
       .col-lg-8(data-aos="fade-left")
-        p Los riesgos y amenazas que conlleva el mal uso de las redes sociales son significativos y requieren ser gestionados con responsabilidad y buen juicio para minimizar los factores de riesgo. 
+        //p Los riesgos y amenazas que conlleva el mal uso de las redes sociales son significativos y requieren ser gestionados con responsabilidad y buen juicio para minimizar los factores de riesgo. 
         .d-flex.mb-4
           .d-inline-block.mx-2.p-2(style="background-color: #e6d567")
             p.mb-0 Cibersexo
