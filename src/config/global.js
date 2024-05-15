@@ -96,7 +96,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/33130170_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -210,7 +210,7 @@ export default {
         {
           nombre: 'Sonia Margarita Leal Cruzo',
           cargo: 'Experto Temático',
-          centro: 'Regional Risaralda',
+          centro: 'Centro de Comercio y Servicios - Regional Risaralda',
         },
         {
           nombre: 'Paola Alexandra Moya',
