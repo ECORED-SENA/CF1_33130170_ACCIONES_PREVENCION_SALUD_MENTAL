@@ -24,7 +24,7 @@
               br
               br
               |Es conocido que las situaciones de estrés no manejadas adecuadamente pueden provocar afectaciones físicas, como enfermedades cardiovasculares o problemas gastrointestinales. Asimismo, el diagnóstico de una enfermedad física grave puede desencadenar angustia y depresión. De la misma manera, las condiciones sociales pueden generar estrés, angustia y ansiedad, como sucede en casos de dificultades económicas, desempleo o exclusión social. 
-      h5(data-aos="fade-right") En la siguiente figura  se resume el concepto de salud mental.
+      h5(data-aos="fade-right").mb-5 En la siguiente figura  se resume el concepto de salud mental.
       .row.justify-content-center.mb-5
         .col-lg-8(data-aos="zoom-in")
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
