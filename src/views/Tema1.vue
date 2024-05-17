@@ -18,7 +18,7 @@
             img.d-lg-block.d-none(src='@/assets/curso/temas/decoracion.svg', alt='' style="width: 62px")
         .col-lg-3.col-5(data-aos="fade-left"): img(src='@/assets/curso/temas/3.png', alt='').mb-4.mb-lg-0
         .col-lg-4(data-aos="fade-left")
-          p La salud debe concebirse de manera integral, considerando que los aspectos #[b biológicos, psicológicos y sociales] forman parte del #[span.color-acento-contenido bienestar] y convergen constantemente.  
+          p La salud debe concebirse de manera integral, considerando que los aspectos #[b biológicos, psicológicos y sociales] forman parte del #[strong bienestar] y convergen constantemente.  
           .cajon-b.color-secundario.p-3
             p.mb-0 #[b Por ejemplo] 
               br

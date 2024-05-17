@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 4
       h1 Riesgos para la salud mental 
-    p.mb-5(data-aos='fade-right') La salud mental es un componente esencial del bienestar integral, tal como lo define la Organización Mundial de la Salud, donde la salud no es meramente la ausencia de enfermedades, sino un estado completo de #[span.color-acento-contenido bienestar físico, mental y social.] Es crucial reconocer que diversos #[span.color-acento-contenido factores socioeconómicos, emocionales y físicos] pueden influir en la salud mental, lo que subraya la necesidad de estrategias efectivas de prevención, tratamiento y recuperación para los trastornos que la afectan. Estos pueden ser: 
+    p.mb-5(data-aos='fade-right') La salud mental es un componente esencial del bienestar integral, tal como lo define la Organización Mundial de la Salud, donde la salud no es meramente la ausencia de enfermedades, sino un estado completo de #[strong bienestar físico, mental y social.] Es crucial reconocer que diversos #[strong factores socioeconómicos, emocionales y físicos] pueden influir en la salud mental, lo que subraya la necesidad de estrategias efectivas de prevención, tratamiento y recuperación para los trastornos que la afectan. Estos pueden ser: 
     .fondo-4-1.mn.p-5.mb-3 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-5.col-7(data-aos="fade-right"): img(src='@/assets/curso/temas/20.svg', alt='')
